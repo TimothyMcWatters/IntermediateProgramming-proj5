@@ -1,0 +1,12 @@
+Buildings
+2779,Grand Bay Court,32566,3,11000
+1600,Pennsylvania Ave,20500,200,150000
+3727,Magnolia,91505,1,50000
+Autos
+Jeep,Cherokee,2014,11000
+Ford,Model T,1920,1000
+Dodge,Ram,2011,19000
+Foods
+Apple,Fruit,100
+Hamburger,Protein,500
+Milk,Dairy,200
